@@ -5,6 +5,7 @@ import Player from './player';
 class App extends React.Component {
     render() {
         return (
+            
             <div className="container">
                 <Navigation />
                 <Player />
